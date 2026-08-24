@@ -18,6 +18,7 @@ mediapipe-tasksVision = "0.10.26"
 mlkit-faceDetection = "16.1.7"
 
 ###########
+###
 
 
 androidx-activity = "1.12.4"
